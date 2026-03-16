@@ -38,7 +38,7 @@ const Index = () => {
             <CollectionCard
               title="Heimspiele"
               href="/sammlung/programme/heimspiele"
-              imageSrc="/LS heim cover 1990 bis 1999-Dateien/image001.jpg"
+              imageSrc="/LS-heim-cover-1990-bis-1999-Dateien/image001.jpg"
               delay={500}
             />
             <CollectionCard
