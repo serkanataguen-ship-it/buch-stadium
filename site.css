@@ -1,0 +1,5 @@
+/* CSS-Definitionsdatei, die Site-weite Stylesheets enthält */
+A:link { font-family: Verdana,Tahoma,Arial,Helvetica,Sans-serif,sans-serif; font-size: small; color: rgb(255,255,0); font-weight: bold;}
+ A:visited { font-family: Verdana,Tahoma,Arial,Helvetica,Sans-serif,sans-serif; font-size: small; color: rgb(204,0,255); font-weight: bold; font-style: italic;}
+ A:hover { font-family: Verdana,Tahoma,Arial,Helvetica,Sans-serif,sans-serif; font-size: small; color: rgb(204,0,255); font-weight: bold;}
+ 

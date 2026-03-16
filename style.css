@@ -1,0 +1,18 @@
+/* CSS-Definitionsdatei, die SiteStyle -Stylesheets enthält */
+BODY { font-family: Verdana,Tahoma,Arial,Helvetica,Sans-serif,sans-serif; font-size: x-small; background-color: rgb(255,255,255); background-image: url("./assets/images/background.gif");}
+ A:active { font-family: Verdana,Tahoma,Arial,Helvetica,Sans-serif,sans-serif; font-size: x-small; color: rgb(255,0,0); font-weight: normal; font-style: normal;}
+ A:link { font-family: Verdana,Tahoma,Arial,Helvetica,Sans-serif,sans-serif; font-size: x-small; color: rgb(0,51,204); font-weight: normal; font-style: normal;}
+ UL { font-family: Verdana,Tahoma,Arial,Helvetica,Sans-serif,sans-serif; font-size: x-small; font-weight: normal; font-style: normal;}
+ A:visited { font-family: Verdana,Tahoma,Arial,Helvetica,Sans-serif,sans-serif; font-size: x-small; color: rgb(153,0,153);}
+ .TextObject { font-family: Verdana,Tahoma,Arial,Helvetica,Sans-serif,sans-serif; font-size: x-small;}
+ H1 { font-family: Verdana,Tahoma,Arial,Helvetica,Sans-serif,sans-serif; font-size: xx-large; color: rgb(0,51,102); font-weight: bold;}
+ H2 { font-family: Verdana,Tahoma,Arial,Helvetica,Sans-serif,sans-serif; font-size: x-large; color: rgb(0,51,102); font-weight: bold;}
+ P { font-family: Verdana,Tahoma,Arial,Helvetica,Sans-serif,sans-serif; font-size: x-small;}
+ H3 { font-family: Verdana,Tahoma,Arial,Helvetica,Sans-serif,sans-serif; font-size: large; color: rgb(0,51,102); font-weight: bold;}
+ OL { font-family: Verdana,Tahoma,Arial,Helvetica,Sans-serif,sans-serif; font-size: x-small; font-weight: normal; font-style: normal;}
+ H4 { font-family: Verdana,Tahoma,Arial,Helvetica,Sans-serif,sans-serif; font-size: medium; color: rgb(0,51,102); font-weight: bold;}
+ .TextNavBar { font-family: Verdana,Tahoma,Arial,Helvetica,Sans-serif,sans-serif; font-size: xx-small;}
+ H5 { font-family: Verdana,Tahoma,Arial,Helvetica,Sans-serif,sans-serif; font-size: small; color: rgb(0,51,102); font-weight: bold;}
+ H6 { font-family: Verdana,Tahoma,Arial,Helvetica,Sans-serif,sans-serif; font-size: x-small; color: rgb(0,51,102); font-weight: bold;}
+ A:hover { font-family: Verdana,Tahoma,Arial,Helvetica,Sans-serif,sans-serif; font-size: x-small; color: rgb(255,0,0); font-weight: normal; font-style: normal;}
+ 
