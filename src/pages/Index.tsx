@@ -21,56 +21,42 @@ const Index = () => {
             </p>
           </div>
 
-          {/* Sportsammler highlight */}
-          <div className="mb-10 opacity-0 animate-fade-in" style={{ animationDelay: "200ms" }}>
-            <a
-              href="/verkaufslisten"
-              className="block overflow-hidden rounded-sm border border-border bg-card hover:shadow-lg hover:border-accent transition-all duration-300 max-w-md mx-auto"
-            >
-              <div className="aspect-[3/2] bg-muted flex items-center justify-center">
-                <span className="text-sm text-muted-foreground font-heading uppercase tracking-widest">
-                  Sportsammler Briefkopf
-                </span>
-              </div>
-            </a>
-          </div>
-
-          {/* Collection grid */}
+          {/* Collection grid with actual images */}
           <div className="grid grid-cols-2 md:grid-cols-4 gap-4 mb-10">
             <CollectionCard
-              title="1860 München"
-              href="/sammlung"
-              imageLabel="1860 Wappen"
+              title="Länderspiele"
+              href="/sammlung/programme/landerspiele/deutschland"
+              imageSrc="/1935_England-deutschland.jpg"
               delay={300}
             />
             <CollectionCard
-              title="1860 München"
-              href="/sammlung"
-              imageLabel="1860 Wappen"
+              title="DFB Pokal Endspiele"
+              href="/sammlung/programme/dfb-pokal-endspiele"
+              imageSrc="/DFB Pokal Endspiele-Dateien/image001.jpg"
               delay={400}
             />
             <CollectionCard
-              title="1860 Löwe"
-              href="/sammlung"
-              imageLabel="1860 Löwe"
+              title="Heimspiele"
+              href="/sammlung/programme/heimspiele"
+              imageSrc="/LS heim cover 1990 bis 1999-Dateien/image001.jpg"
               delay={500}
             />
             <CollectionCard
-              title="D v. Italien 1939"
+              title="50 Jahre 1860"
               href="/sammlung"
-              imageLabel="Länderspiel"
+              imageSrc="/50_Jahre_Mainz.jpg"
               delay={600}
             />
             <CollectionCard
-              title="50 Jahre Buch"
-              href="/sammlung"
-              imageLabel="Jubiläum"
+              title="WM 1954 Uruguay"
+              href="/sammlung/programme/landerspiele/deutschland"
+              imageSrc="/1954_Uruquay.jpg"
               delay={700}
             />
             <CollectionCard
-              title="WM 1962"
-              href="/sammlung"
-              imageLabel="WM Programm"
+              title="Die Blaue"
+              href="/sammlung/programme/die-blaue"
+              imageSrc="/1860 Auswaerts 2000 cover-Dateien/image001.jpg"
               delay={800}
             />
           </div>
