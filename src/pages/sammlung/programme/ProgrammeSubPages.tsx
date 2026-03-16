@@ -156,7 +156,7 @@ export const EcSpiele = () => (
 
 // Die Blaue with 1860 Auswärts 2000 images
 const dieBlaueItems: GalleryItem[] = Array.from({ length: 37 }, (_, i) => ({
-  src: `/1860 Auswaerts 2000 cover-Dateien/image${String(i + 1).padStart(3, "0")}.jpg`,
+  src: `/1860-Auswaerts-2000-cover-Dateien/image${String(i + 1).padStart(3, "0")}.jpg`,
   title: `Ausgabe ${i + 1}`,
 }));
 

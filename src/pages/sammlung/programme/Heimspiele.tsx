@@ -46,7 +46,7 @@ const heimspiele2000er: GalleryItem[] = [
   "image040", "image041", "image042", "image043", "image044", "image045",
   "image046", "image047", "image048", "image049", "image050", "image078",
 ].map((name, i) => ({
-  src: `/LS heim cover 2000 bis heute-Dateien/${name}.jpg`,
+  src: `/LS-heim-cover-2000-bis-heute-Dateien/${name}.jpg`,
   title: `Heimspiel ${i + 1}`,
   subtitle: "2000er Jahre",
 }));

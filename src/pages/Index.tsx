@@ -56,7 +56,7 @@ const Index = () => {
             <CollectionCard
               title="Die Blaue"
               href="/sammlung/programme/die-blaue"
-              imageSrc="/1860 Auswaerts 2000 cover-Dateien/image001.jpg"
+              imageSrc="/1860-Auswaerts-2000-cover-Dateien/image001.jpg"
               delay={800}
             />
           </div>
