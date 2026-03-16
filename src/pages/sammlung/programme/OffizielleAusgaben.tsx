@@ -9,7 +9,7 @@ const awayItems: GalleryItem[] = [
   "image036", "image038", "image040", "image042", "image043", "image044",
   "image045", "image046",
 ].map((name, i) => ({
-  src: `/LS Away cover 2000 bis heute-Dateien/${name}.jpg`,
+  src: `/LS-Away-cover-2000-bis-heute-Dateien/${name}.jpg`,
   title: `Auswärtsspiel ${i + 1}`,
   subtitle: "2000er Jahre",
 }));
@@ -20,7 +20,7 @@ const formel1Items: GalleryItem[] = [
   "image020", "image024", "image031", "image032", "image033", "image034",
   "image035", "image036", "image037", "image038", "image039", "image040",
 ].map((name, i) => ({
-  src: `/Formel 1 Hefte-Dateien/${name}.jpg`,
+  src: `/Formel-1-Hefte-Dateien/${name}.jpg`,
   title: `Formel 1 Heft ${i + 1}`,
 }));
 

@@ -32,13 +32,13 @@ const Index = () => {
             <CollectionCard
               title="DFB Pokal Endspiele"
               href="/sammlung/programme/dfb-pokal-endspiele"
-              imageSrc="/DFB Pokal Endspiele-Dateien/image001.jpg"
+              imageSrc="/DFB-Pokal-Endspiele-Dateien/image001.jpg"
               delay={400}
             />
             <CollectionCard
               title="Heimspiele"
               href="/sammlung/programme/heimspiele"
-              imageSrc="/LS heim cover 1990 bis 1999-Dateien/image001.jpg"
+              imageSrc="/LS-heim-cover-1990-bis-1999-Dateien/image001.jpg"
               delay={500}
             />
             <CollectionCard
@@ -56,7 +56,7 @@ const Index = () => {
             <CollectionCard
               title="Die Blaue"
               href="/sammlung/programme/die-blaue"
-              imageSrc="/1860 Auswaerts 2000 cover-Dateien/image001.jpg"
+              imageSrc="/1860-Auswaerts-2000-cover-Dateien/image001.jpg"
               delay={800}
             />
           </div>

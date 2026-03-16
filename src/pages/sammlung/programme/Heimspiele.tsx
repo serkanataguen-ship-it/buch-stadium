@@ -9,7 +9,7 @@ const heimspiele70er: GalleryItem[] = [
   "image059", "image060", "image061", "image062", "image063", "image064",
   "image065", "image066", "image067", "image068",
 ].map((name, i) => ({
-  src: `/LS heim cover 1970 bis 1979-Dateien/${name}.jpg`,
+  src: `/LS-heim-cover-1970-bis-1979-Dateien/${name}.jpg`,
   title: `Heimspiel ${i + 1}`,
   subtitle: "1970er Jahre",
 }));
@@ -20,7 +20,7 @@ const heimspiele80er: GalleryItem[] = [
   "image025", "image026", "image027", "image028", "image029", "image030",
   "image031", "image032",
 ].map((name, i) => ({
-  src: `/LS heim cover 1980 bis 1989-Dateien/${name}.jpg`,
+  src: `/LS-heim-cover-1980-bis-1989-Dateien/${name}.jpg`,
   title: `Heimspiel ${i + 1}`,
   subtitle: "1980er Jahre",
 }));
@@ -34,7 +34,7 @@ const heimspiele90er: GalleryItem[] = [
   "image081", "image082", "image083", "image084", "image085", "image088",
   "image089", "image090", "image091",
 ].map((name, i) => ({
-  src: `/LS heim cover 1990 bis 1999-Dateien/${name}.jpg`,
+  src: `/LS-heim-cover-1990-bis-1999-Dateien/${name}.jpg`,
   title: `Heimspiel ${i + 1}`,
   subtitle: "1990er Jahre",
 }));
@@ -46,7 +46,7 @@ const heimspiele2000er: GalleryItem[] = [
   "image040", "image041", "image042", "image043", "image044", "image045",
   "image046", "image047", "image048", "image049", "image050", "image078",
 ].map((name, i) => ({
-  src: `/LS heim cover 2000 bis heute-Dateien/${name}.jpg`,
+  src: `/LS-heim-cover-2000-bis-heute-Dateien/${name}.jpg`,
   title: `Heimspiel ${i + 1}`,
   subtitle: "2000er Jahre",
 }));
