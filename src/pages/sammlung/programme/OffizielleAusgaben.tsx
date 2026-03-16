@@ -9,7 +9,7 @@ const awayItems: GalleryItem[] = [
   "image036", "image038", "image040", "image042", "image043", "image044",
   "image045", "image046",
 ].map((name, i) => ({
-  src: `/LS Away cover 2000 bis heute-Dateien/${name}.jpg`,
+  src: `/LS-Away-cover-2000-bis-heute-Dateien/${name}.jpg`,
   title: `Auswärtsspiel ${i + 1}`,
   subtitle: "2000er Jahre",
 }));
