@@ -32,7 +32,7 @@ const Index = () => {
             <CollectionCard
               title="DFB Pokal Endspiele"
               href="/sammlung/programme/dfb-pokal-endspiele"
-              imageSrc="/DFB Pokal Endspiele-Dateien/image001.jpg"
+              imageSrc="/DFB-Pokal-Endspiele-Dateien/image001.jpg"
               delay={400}
             />
             <CollectionCard
