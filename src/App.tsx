@@ -4,6 +4,9 @@ import { Toaster as Sonner } from "@/components/ui/sonner";
 import { Toaster } from "@/components/ui/toaster";
 import { TooltipProvider } from "@/components/ui/tooltip";
 import Index from "./pages/Index.tsx";
+import Sammlung from "./pages/Sammlung.tsx";
+import Verkaufslisten from "./pages/Verkaufslisten.tsx";
+import ObuFamily from "./pages/ObuFamily.tsx";
 import NotFound from "./pages/NotFound.tsx";
 
 const queryClient = new QueryClient();
