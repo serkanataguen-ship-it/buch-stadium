@@ -34,7 +34,7 @@ const heimspiele90er: GalleryItem[] = [
   "image081", "image082", "image083", "image084", "image085", "image088",
   "image089", "image090", "image091",
 ].map((name, i) => ({
-  src: `/LS heim cover 1990 bis 1999-Dateien/${name}.jpg`,
+  src: `/LS-heim-cover-1990-bis-1999-Dateien/${name}.jpg`,
   title: `Heimspiel ${i + 1}`,
   subtitle: "1990er Jahre",
 }));
