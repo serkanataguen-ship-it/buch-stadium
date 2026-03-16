@@ -83,22 +83,22 @@ const dfbPokalEndspieleItems: GalleryItem[] = [
 
 // 1860 Auswärtsspiele 2004 items
 const auswaerts2004Items: GalleryItem[] = [
-  { src: "/1860 Auswaerts 2004 cover-Dateien/image004.jpg", title: "Auswärtsspiel" },
-  { src: "/1860 Auswaerts 2004 cover-Dateien/image006.jpg", title: "Auswärtsspiel" },
-  { src: "/1860 Auswaerts 2004 cover-Dateien/image008.jpg", title: "Auswärtsspiel" },
-  { src: "/1860 Auswaerts 2004 cover-Dateien/image010.jpg", title: "Auswärtsspiel" },
-  { src: "/1860 Auswaerts 2004 cover-Dateien/image012.jpg", title: "Auswärtsspiel" },
-  { src: "/1860 Auswaerts 2004 cover-Dateien/image014.jpg", title: "Auswärtsspiel" },
-  { src: "/1860 Auswaerts 2004 cover-Dateien/image016.jpg", title: "Auswärtsspiel" },
-  { src: "/1860 Auswaerts 2004 cover-Dateien/image018.jpg", title: "Auswärtsspiel" },
-  { src: "/1860 Auswaerts 2004 cover-Dateien/image020.jpg", title: "Auswärtsspiel" },
-  { src: "/1860 Auswaerts 2004 cover-Dateien/image022.jpg", title: "Auswärtsspiel" },
-  { src: "/1860 Auswaerts 2004 cover-Dateien/image024.jpg", title: "Auswärtsspiel" },
-  { src: "/1860 Auswaerts 2004 cover-Dateien/image026.jpg", title: "Auswärtsspiel" },
-  { src: "/1860 Auswaerts 2004 cover-Dateien/image028.jpg", title: "Auswärtsspiel" },
-  { src: "/1860 Auswaerts 2004 cover-Dateien/image030.jpg", title: "Auswärtsspiel" },
-  { src: "/1860 Auswaerts 2004 cover-Dateien/image032.jpg", title: "Auswärtsspiel" },
-  { src: "/1860 Auswaerts 2004 cover-Dateien/image034.jpg", title: "Auswärtsspiel" },
+  { src: "/1860-Auswaerts-2004-cover-Dateien/image004.jpg", title: "Auswärtsspiel" },
+  { src: "/1860-Auswaerts-2004-cover-Dateien/image006.jpg", title: "Auswärtsspiel" },
+  { src: "/1860-Auswaerts-2004-cover-Dateien/image008.jpg", title: "Auswärtsspiel" },
+  { src: "/1860-Auswaerts-2004-cover-Dateien/image010.jpg", title: "Auswärtsspiel" },
+  { src: "/1860-Auswaerts-2004-cover-Dateien/image012.jpg", title: "Auswärtsspiel" },
+  { src: "/1860-Auswaerts-2004-cover-Dateien/image014.jpg", title: "Auswärtsspiel" },
+  { src: "/1860-Auswaerts-2004-cover-Dateien/image016.jpg", title: "Auswärtsspiel" },
+  { src: "/1860-Auswaerts-2004-cover-Dateien/image018.jpg", title: "Auswärtsspiel" },
+  { src: "/1860-Auswaerts-2004-cover-Dateien/image020.jpg", title: "Auswärtsspiel" },
+  { src: "/1860-Auswaerts-2004-cover-Dateien/image022.jpg", title: "Auswärtsspiel" },
+  { src: "/1860-Auswaerts-2004-cover-Dateien/image024.jpg", title: "Auswärtsspiel" },
+  { src: "/1860-Auswaerts-2004-cover-Dateien/image026.jpg", title: "Auswärtsspiel" },
+  { src: "/1860-Auswaerts-2004-cover-Dateien/image028.jpg", title: "Auswärtsspiel" },
+  { src: "/1860-Auswaerts-2004-cover-Dateien/image030.jpg", title: "Auswärtsspiel" },
+  { src: "/1860-Auswaerts-2004-cover-Dateien/image032.jpg", title: "Auswärtsspiel" },
+  { src: "/1860-Auswaerts-2004-cover-Dateien/image034.jpg", title: "Auswärtsspiel" },
 ];
 
 export const Liga = () => (
